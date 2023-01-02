@@ -14,7 +14,7 @@ This repo contains projects for the Practicum bootcamp.
 | 7 | Develop a classification model to analyze Mobile subscribers' behavior | By analyzing behavior data about subscribers who have already switched from legacy plans to the new plans, we want to develop a classification model for picking the right plan for Mobile subscribers. |
 | 8 | Predict whether a customer will leave the bank soon | To find ways to save the existing customers, we need to predict whether a customer will leave the bank soon, by analyzing the data on clients’ past behavior and termination of contracts with the bank. |
 | 9 | Pick the best place for a new oil well | We have data on oil samples from three regions. Parameters of each oil well in the region are already known. We want to build a model that helps to pick the region with the highest profit margin. We will analyze the potential profit and risks using the Bootstrapping technique. |
-| 10 |  |  |
+| 10 (Integrated Project 2) | Predict the amount of gold recovered from gold ore | In this project, we want to build a model that will predict the amount of gold recovered from gold ore. The model will help to optimize the production and eliminate unprofitable parameters. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
