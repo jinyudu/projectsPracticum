@@ -1,2 +1,2 @@
 # projectsPracticum
-This repo contains projects for the Practicum by Yandex bootcamp. 
+This repo contains projects for the Practicum bootcamp. 
