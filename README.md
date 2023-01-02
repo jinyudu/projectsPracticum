@@ -16,7 +16,7 @@ This repo contains projects for the Practicum bootcamp.
 | 9 | Pick the best place for a new oil well | We have data on oil samples from three regions. Parameters of each oil well in the region are already known. We want to build a model that helps to pick the region with the highest profit margin. We will analyze the potential profit and risks using the Bootstrapping technique. |
 | 10 (Integrated Project 2) | Predict the amount of gold recovered from gold ore | In this project, we want to build a model that will predict the amount of gold recovered from gold ore. The model will help to optimize the production and eliminate unprofitable parameters. |
 | 11 | Making predictions for Sure Tomorrow insurance company | In this model, we want to solve four major tasks for the insurance company with the help of machine learning. Data obfuscation is used to proect personal information. |
-|  |  |  |
+| 12 | Machine learning models for car valuation | In this project, we want to determine the value of cars by training different models with various hyperparameters. We are particularly interested in comparing the quality and speed of the prediction. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
