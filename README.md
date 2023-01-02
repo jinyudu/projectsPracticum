@@ -12,7 +12,7 @@ This repo contains projects for the Practicum bootcamp.
 | 5 (Integrated Project 1) | What makes a game succeed? | In this project, we want to identify patterns that determine whether a game succeeds or not. This will allow us to spot potential big winners and plan advertising campaigns. |
 | 6 | Understand passenger preferences | In this project, we'll analyze data from ride-sharing companies to understand passenger preferences. We will also test a hypothesis about the impact of weather on ride frequency. |
 | 7 | Develop a classification model to analyze Mobile subscribers' behavior | By analyzing behavior data about subscribers who have already switched from legacy plans to the new plans, we want to develop a classification model for picking the right plan for Mobile subscribers. |
-| 8 |  |  |
+| 8 | Predict whether a customer will leave the bank soon | To find ways to save the existing customers, we need to predict whether a customer will leave the bank soon, by analyzing the data on clients’ past behavior and termination of contracts with the bank. |
 | 9 |  |  |
 | 10 |  |  |
 |  |  |  |
