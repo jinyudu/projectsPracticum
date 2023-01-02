@@ -13,7 +13,7 @@ This repo contains projects for the Practicum bootcamp.
 | 6 | Understand passenger preferences | In this project, we'll analyze data from ride-sharing companies to understand passenger preferences. We will also test a hypothesis about the impact of weather on ride frequency. |
 | 7 | Develop a classification model to analyze Mobile subscribers' behavior | By analyzing behavior data about subscribers who have already switched from legacy plans to the new plans, we want to develop a classification model for picking the right plan for Mobile subscribers. |
 | 8 | Predict whether a customer will leave the bank soon | To find ways to save the existing customers, we need to predict whether a customer will leave the bank soon, by analyzing the data on clients’ past behavior and termination of contracts with the bank. |
-| 9 |  |  |
+| 9 | Pick the best place for a new oil well | We have data on oil samples from three regions. Parameters of each oil well in the region are already known. We want to build a model that helps to pick the region with the highest profit margin. We will analyze the potential profit and risks using the Bootstrapping technique. |
 | 10 |  |  |
 |  |  |  |
 |  |  |  |
