@@ -20,11 +20,10 @@ This repo contains projects for the Practicum bootcamp.
 | 13 | Prediction for the next-hour taxi orders | This project aims to predict the amount of taxi orders for the next hour. |
 | 14 | Prediction for movie reviews | In this project, we use a dataset of IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. |
 | 15 | Determining the age of a person using computer vision| This project aims to build and evaluate a model for verifying people's age using computer vision methods. So that the supermarket chain Good Seed can use the results to help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. |
+| 16 |  |  |
+| 17 |  |  |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
 
  
 
