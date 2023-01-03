@@ -17,7 +17,7 @@ This repo contains projects for the Practicum bootcamp.
 | 10 (Integrated Project 2) | Predict the amount of gold recovered from gold ore | In this project, we want to build a model that will predict the amount of gold recovered from gold ore. The model will help to optimize the production and eliminate unprofitable parameters. |
 | 11 | Making predictions for Sure Tomorrow insurance company | In this model, we want to solve four major tasks for the insurance company with the help of machine learning. Data obfuscation is used to proect personal information. |
 | 12 | Machine learning models for car valuation | In this project, we want to determine the value of cars by training different models with various hyperparameters. We are particularly interested in comparing the quality and speed of the prediction. |
-|  |  |  |
+| 13 | Prediction for the next-hour taxi orders | This project aims to predict the amount of taxi orders for the next hour. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
