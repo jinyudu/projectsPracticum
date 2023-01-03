@@ -20,10 +20,4 @@ This repo contains projects for the Practicum bootcamp.
 | 13 | Prediction for the next-hour taxi orders | This project aims to predict the amount of taxi orders for the next hour. |
 | 14 | Prediction for movie reviews | In this project, we use a dataset of IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. |
 | 15 | Determining the age of a person using computer vision| This project aims to build and evaluate a model for verifying people's age using computer vision methods. So that the supermarket chain Good Seed can use the results to help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. |
-| 16 |  |  |
-| 17 |  |  |
-|  |  |  |
-
-
- 
-
+| 16 (The Final Project) | Forecasting churn of clients for a telecom operator | The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their clientele's personal data, including information about their plans and contracts. We will use the data to forecast their churn of clients. |
